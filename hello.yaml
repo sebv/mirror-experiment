@@ -1,2 +1,2 @@
-hello:
-  - script: echo 'Hello!'
+hello-common:
+  - script: echo 'Hello common!'
